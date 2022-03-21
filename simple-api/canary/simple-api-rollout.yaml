@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: simple-api
-        image: skaqud/simple-api
+        image: devdoe153/simple-api
         imagePullPolicy: Always
         ports:
         - name: http
